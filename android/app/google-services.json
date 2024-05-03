@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571366823050",
+    "project_id": "mobile-f3f40",
+    "storage_bucket": "mobile-f3f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571366823050:android:a9e1a34575b61df406c973",
+        "android_client_info": {
+          "package_name": "com.example.demofb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZB-YsOINfUISPzqtKJTzoLgHAk-biHRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
